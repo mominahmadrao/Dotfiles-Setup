@@ -11,14 +11,14 @@ This repository contains my personal configuration files (dotfiles) for:
 
 
 # 📁 Directory Structure
-
+``` text
 .
 ├── nvim/ # Neovim config (usually ~/.config/nvim)
 ├── rofi/ # Rofi config and themes (usually ~/.config/rofi)
 ├── alacritty/ # Alacritty config (usually ~/.config/alacritty)
 ├── kitty/ # Kitty config (usually ~/.config/kitty)
 └── README.md
-
+```
 ## 🚀 How to Use
 
 ```bash
